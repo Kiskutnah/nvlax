@@ -20,7 +20,7 @@ CPMAddPackage("gh:zyantific/zydis#master")
 
 CPMAddPackage(
         NAME LIEF_SRC
-        GIT_TAG master
+        GIT_TAG main
         GITHUB_REPOSITORY lief-project/LIEF
         DOWNLOAD_ONLY YES
 )
